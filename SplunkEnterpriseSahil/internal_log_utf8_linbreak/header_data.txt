@@ -1,3 +1,0 @@
-***SPLUNK*** host=demo_host
-some sample log line
-another sample log line

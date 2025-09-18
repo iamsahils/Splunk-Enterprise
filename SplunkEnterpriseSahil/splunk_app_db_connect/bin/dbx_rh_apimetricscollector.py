@@ -1,2 +1,0 @@
-import dbx_bootstrap_env
-from dbx2.rest.metricscollector import ApimetricscollectorRestHandler

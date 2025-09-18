@@ -1,8 +1,0 @@
-index=tmdb_index
-| fieldsummary
-
-index=tmdb_index
-| fieldsummary maxvals=400
-
-index=tmdb_index
-| fieldsummary maxvals=400 popularity
