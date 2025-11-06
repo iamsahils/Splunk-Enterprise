@@ -1,3 +1,4 @@
-node "D:\YouTube\statsd\stats.js" D:\YouTube\statsd\exampleConfig.js
+node "D:\sahil\statsd\stats.js" D:\sahil\statsd\exampleConfig.js
 npm i statsd-client
-node "D:\YouTube\SplunkHowTo\getting_metric_data_statsd\statsd_client_node.js"
+node "D:\sahil\SplunkHowTo\getting_metric_data_statsd\statsd_client_node.js"
+
